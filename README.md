@@ -1,3 +1,3 @@
-# PacMan-Like-Tilemap
+# PacMan-Like-GameLab
 
-Testing tilemap level areas.
+PacMan like game prototype.
